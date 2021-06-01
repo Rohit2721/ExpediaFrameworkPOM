@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-01T01:46:18Z" name="Default suite" finished-at="2021-06-01T01:46:40Z" duration-ms="22254">
+    <groups>
+    </groups>
+    <test started-at="2021-06-01T01:46:18Z" name="Default test" finished-at="2021-06-01T01:46:40Z" duration-ms="22254">
+      <class name="TestCases.hotelSearchTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestCases.hotelSearchTest@6304101a]" started-at="2021-06-01T01:46:18Z" name="launch" finished-at="2021-06-01T01:46:28Z" duration-ms="9981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validation()[pri:0, instance:TestCases.hotelSearchTest@6304101a]" started-at="2021-06-01T01:46:28Z" name="validation" finished-at="2021-06-01T01:46:40Z" duration-ms="12071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:TestCases.hotelSearchTest@6304101a]" started-at="2021-06-01T01:46:40Z" name="terminateBrowser" finished-at="2021-06-01T01:46:40Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- TestCases.hotelSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
